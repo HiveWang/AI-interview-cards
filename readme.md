@@ -36,8 +36,3 @@
 [无监督学习](https://github.com/zixian2021/AI-interview-cards/blob/5cf9b6998581a3011af63a10400573bf4408d86e/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/1cff4648-0cf6-446b-b41d-9d4d45a96c3d_Export-7cbe056a-8477-49e2-af07-0fff51fe9f16/Unsupervised%20learning%20e6a4cf79c84b4dc5befdce45732063c3.md)  
 [多模态](深度学习/多模态.md) 
 
-
-
-如果觉得该仓库有益，欢迎关注我的微信公众号：苏坡爱豆
-
-![Untitled](readme%20md%2059479e695dc044bd8bf6ce7f3942924b/Untitled.png)
