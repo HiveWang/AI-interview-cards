@@ -35,4 +35,3 @@
 [ASR/TTS](https://github.com/zixian2021/AI-interview-cards/blob/5cf9b6998581a3011af63a10400573bf4408d86e/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/63e02df0-f39a-4d23-8a3d-85ec16ece257_Export-2901e449-79c7-440f-bc91-d5f64305b970/ASR%20TTS%E7%9B%B8%E5%85%B3%E9%9D%A2%E8%AF%95%E9%A2%98%208e9ba123ed6b41c18e69ed787f493d73.md)  
 [无监督学习](https://github.com/zixian2021/AI-interview-cards/blob/5cf9b6998581a3011af63a10400573bf4408d86e/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/1cff4648-0cf6-446b-b41d-9d4d45a96c3d_Export-7cbe056a-8477-49e2-af07-0fff51fe9f16/Unsupervised%20learning%20e6a4cf79c84b4dc5befdce45732063c3.md)  
 [多模态](深度学习/多模态.md) 
-
